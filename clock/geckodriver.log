@@ -1,0 +1,418 @@
+1584010553980	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileJNGBbS"
+1584010555044	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584010556972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584010556973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584010556973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584010556974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584010562026	Marionette	INFO	Listening on port 58002
+1584010562316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+1584010589081	Marionette	INFO	Stopped listening on port 58002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584010766635	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileErXgI4"
+1584010767461	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584010769121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584010769122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584010769122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584010769122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584010772939	Marionette	INFO	Listening on port 58101
+1584010772978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584010798876	Marionette	INFO	Stopped listening on port 58101
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584011732531	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileFoUPOz"
+1584011733496	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584011735113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584011735113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584011735113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584011735114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584011740652	Marionette	INFO	Listening on port 58506
+1584011740914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 331: unreachable code after return statement
+1584011768456	Marionette	INFO	Stopped listening on port 58506
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584013035260	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofilevrB5di"
+1584013036208	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584013037864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584013037864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584013037864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584013037864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584013042710	Marionette	INFO	Listening on port 59080
+1584013043098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584013069386	Marionette	INFO	Stopped listening on port 59080
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584013741767	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileB4umGo"
+1584013742609	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584013744059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584013744059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584013744059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584013744060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584013748890	Marionette	INFO	Listening on port 59471
+1584013749127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584013779739	Marionette	INFO	Stopped listening on port 59471
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584013874332	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileuz41RM"
+1584013875195	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584013876779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584013876780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584013876780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584013876780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584013880858	Marionette	INFO	Listening on port 59565
+1584013881165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584013907465	Marionette	INFO	Stopped listening on port 59565
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584021851680	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofilenmpV4K"
+1584021852545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584021854349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584021854349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584021854349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584021854349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584021860099	Marionette	INFO	Listening on port 62199
+1584021860129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584021888574	Marionette	INFO	Stopped listening on port 62199
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584022023326	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofilemJ1rz9"
+1584022024258	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584022026025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584022026025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584022026025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584022026026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584022030741	Marionette	INFO	Listening on port 62298
+1584022031172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584022059692	Marionette	INFO	Stopped listening on port 62298
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584022803067	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileKwYmlV"
+1584022803832	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584022805302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584022805303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584022805303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584022805303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584022810536	Marionette	INFO	Listening on port 62639
+1584022810900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584022838904	Marionette	INFO	Stopped listening on port 62639
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584024123091	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileNxJ7S5"
+1584024127432	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584024130261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584024130261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584024130261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584024130261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584024137040	Marionette	INFO	Listening on port 63256
+1584024137265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584024164434	Marionette	INFO	Stopped listening on port 63256
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584024526721	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileou7e7N"
+1584024528268	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584024530112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584024530112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584024530112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584024530112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584024535660	Marionette	INFO	Listening on port 63441
+1584024536165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584024562012	Marionette	INFO	Stopped listening on port 63441
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027003622	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileAMG9Ko"
+1584027004427	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027006136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027006136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027006136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027006137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584027010660	Marionette	INFO	Listening on port 64184
+1584027010957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584027037024	Marionette	INFO	Stopped listening on port 64184
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027043463	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofile3NC3gd"
+1584027044268	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027045771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027045771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027045771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027045772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584027050886	Marionette	INFO	Listening on port 64263
+1584027051298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 331: unreachable code after return statement
+1584027076978	Marionette	INFO	Stopped listening on port 64263
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027243522	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileCbfZvm"
+1584027244301	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027245832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027245832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027245832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027245832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584027249369	Marionette	INFO	Listening on port 64351
+1584027249751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584027275975	Marionette	INFO	Stopped listening on port 64351
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027282730	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileepNV74"
+1584027283513	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027285062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027285062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027285063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027285063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584027290013	Marionette	INFO	Listening on port 64406
+1584027290068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 331: unreachable code after return statement
+1584027315839	Marionette	INFO	Stopped listening on port 64406
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027603660	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileAi2W4X"
+1584027604471	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027605934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027605934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027605935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027605935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584027609873	Marionette	INFO	Listening on port 64523
+1584027609901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584027635795	Marionette	INFO	Stopped listening on port 64523
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584027642125	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofileY1qZzF"
+1584027642842	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584027644284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584027644284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584027644284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584027644285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584027648748	Marionette	INFO	Listening on port 64622
+1584027648991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 331: unreachable code after return statement
+1584027674899	Marionette	INFO	Stopped listening on port 64622
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584028023620	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofilegcQnhS"
+1584028024446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584028026128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584028026129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584028026129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584028026129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584028029810	Marionette	INFO	Listening on port 64760
+1584028029850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081180&Id=10750, line 331: unreachable code after return statement
+1584028055552	Marionette	INFO	Stopped listening on port 64760
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584028064478	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DOU\\AppData\\Local\\Temp\\rust_mozprofilezxpDAk"
+1584028065263	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584028066641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584028066641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584028066642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584028066642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584028069993	Marionette	INFO	Listening on port 64816
+1584028070216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSj.asp?UTp=Xs&Tx=33_1&ObjId=2017081162&Id=10750, line 331: unreachable code after return statement
+1584028096125	Marionette	INFO	Stopped listening on port 64816
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 321: unreachable code after return statement
+JavaScript warning: http://jszx-jxpt.cuit.edu.cn/Jxgl/Xs/netks/editSjRs.asp, line 331: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
