@@ -7,7 +7,7 @@ import pymysql
 def getUser():
     # 连接数据库
     conn = pymysql.connect(
-        host='116.62.189.157',
+        host='xxxxx',
         port=3306,
         user='root',
         password='123456',
